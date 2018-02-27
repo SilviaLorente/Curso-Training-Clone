@@ -4,7 +4,7 @@
   "description": "Cisco Spark Bots built with the Botkit framework",
   "main": "helloworld.js",
   "scripts": {
-    "start": "cross-env SPARK_TOKEN=ZmYxYWNjM2QtYmUwZS00ZTE1LTliMDMtODcyNGI1NTg0NTM0ODVhZTFiMzMtOTJi PUBLIC_URL=https://clonebotsilvia.herokuapp.com SECRET=empty node helloworld.js"
+    "start": "cross-env SPARK_TOKEN=NDI0YTE3NzUtOTYwNi00NTdkLThmOWUtN2Y0MGFjYzc1Y2FiMzU2NGMzZjktODhk PUBLIC_URL=https://clonebotsilvia.herokuapp.com SECRET=empty node helloworld.js"
   },
   "keywords": [
     "ciscospark",
